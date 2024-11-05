@@ -1,9 +1,0 @@
-tomato
-tomato
-potato
-potato
-tomato
-tomato
-tomato
-tomato
-# Conflict resolved with no changes
