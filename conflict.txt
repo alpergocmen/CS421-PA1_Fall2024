@@ -1,2 +1,1 @@
-
-Line in main branch: "This is the main branch version."
+Line in test branch: "This is the main branch version."
