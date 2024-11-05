@@ -1,7 +1,1 @@
-conflict1
-conflict2
-conflict8
-conflict9
-conflict5
-conflict6
-conflict7
+Line in new-feature-branch: "This is the new-feature-branch version."
