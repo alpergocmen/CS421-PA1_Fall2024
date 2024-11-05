@@ -1,4 +1,1 @@
-Line in main branch: "This is the main branch version."
-
-# Conflict resolved with no changes
-# Conflict resolved by keeping their version
+Line in main branch: "This is the main branch version."
